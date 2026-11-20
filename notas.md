@@ -1,1 +1,3 @@
-Plan de la salida: vamos a comer tacos
+HEAD
+Plan de la salida: vamos a comer pizza
+rama-pareja
