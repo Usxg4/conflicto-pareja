@@ -1,1 +1,1 @@
-Plan de la salida: vamos a comer hamburguesa
+Plan de la salida: vamos a comer tacos
